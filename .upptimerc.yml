@@ -9,12 +9,15 @@ sites:
     url: https://ecwu.xyz
   - name: PHOTO Site
     url: https://foto.ecwuuuuu.com
+    __dangerous__insecure: true
   - name: Tiny Tiny RSS
     url: https://rss.ecwu.xyz
   - name: RSSHub
     url: https://r.ecwu.xyz
   - name: BitWarden
     url: https://k.ecwu.xyz
+  - name: NAS
+    url: https://ddns.ecwuuuuu.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -25,6 +28,7 @@ status-website:
   name: ECWU Status
   introTitle: "ECWU Services Status"
   introMessage: "Build with **Upptime**, powered entirely by GitHub."
+  theme: night
   navbar:
     - title: Status
       href: /
@@ -32,6 +36,7 @@ status-website:
       href: mailto:ecwu@protonmail.com
     - title: GitHub
       href: https://github.com/ecwu/uptime
+  robotsText: "User-agent: * \n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
