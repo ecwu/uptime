@@ -7,9 +7,6 @@ sites:
     url: https://www.ecwuuuuu.com
   - name: ECWU.xyz
     url: https://ecwu.xyz
-  - name: PHOTO Site
-    url: https://foto.ecwuuuuu.com
-    __dangerous__insecure: true
   - name: Tiny Tiny RSS
     url: https://rss.ecwu.xyz
   - name: RSSHub
