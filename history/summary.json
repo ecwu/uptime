@@ -22,9 +22,9 @@
     "url": "https://ecwu.xyz",
     "icon": "https://favicons.githubusercontent.com/ecwu.xyz",
     "slug": "ecwu-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 366,
     "timeMonth": 366,
     "timeYear": 366,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-15": 0
+    }
   },
   {
     "name": "Tiny Tiny RSS",
@@ -95,13 +97,13 @@
     "icon": "https://favicons.githubusercontent.com/ddns.ecwuuuuu.com",
     "slug": "nas",
     "status": "up",
-    "uptime": "89.59%",
-    "uptimeDay": "96.01%",
-    "uptimeWeek": "89.59%",
-    "uptimeMonth": "89.59%",
-    "uptimeYear": "89.59%",
+    "uptime": "90.34%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "90.34%",
+    "uptimeMonth": "90.34%",
+    "uptimeYear": "90.34%",
     "time": 1297,
-    "timeDay": 1471,
+    "timeDay": 1665,
     "timeWeek": 1297,
     "timeMonth": 1297,
     "timeYear": 1297,
