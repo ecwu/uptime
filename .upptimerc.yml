@@ -15,6 +15,8 @@ sites:
     url: https://k.ecwu.xyz
   - name: NAS
     url: https://ddns.ecwuuuuu.com
+  - name: Code Server
+    url: https://cs.ecwuuuuu.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -29,10 +31,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Contact
-      href: mailto:ecwu@protonmail.com
     - title: GitHub
       href: https://github.com/ecwu/uptime
+    - title: Contact
+      href: mailto:ecwu@protonmail.com
   robotsText: "User-agent: * \n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
