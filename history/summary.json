@@ -40,9 +40,9 @@
     "url": "https://rss.ecwu.xyz",
     "icon": "https://favicons.githubusercontent.com/rss.ecwu.xyz",
     "slug": "tiny-tiny-rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,25 +51,29 @@
     "timeWeek": 967,
     "timeMonth": 922,
     "timeYear": 890,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 0
+    }
   },
   {
     "name": "RSSHub",
     "url": "https://r.ecwu.xyz",
     "icon": "https://favicons.githubusercontent.com/r.ecwu.xyz",
     "slug": "rss-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 774,
-    "timeDay": 782,
-    "timeWeek": 756,
+    "timeDay": 784,
+    "timeWeek": 759,
     "timeMonth": 781,
     "timeYear": 774,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 0
+    }
   },
   {
     "name": "BitWarden",
@@ -95,11 +99,11 @@
     "icon": "https://favicons.githubusercontent.com/ddns.ecwuuuuu.com",
     "slug": "nas",
     "status": "up",
-    "uptime": "98.19%",
+    "uptime": "98.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "98.19%",
+    "uptimeYear": "98.20%",
     "time": 1406,
     "timeDay": 1189,
     "timeWeek": 1951,
