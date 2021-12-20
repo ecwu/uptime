@@ -22,19 +22,19 @@
     "url": "https://ecwu.xyz",
     "icon": "https://favicons.githubusercontent.com/ecwu.xyz",
     "slug": "ecwu-xyz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 190,
-    "timeWeek": 310,
-    "timeMonth": 360,
-    "timeYear": 358,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 367,
+    "timeDay": 496,
+    "timeWeek": 371,
+    "timeMonth": 373,
+    "timeYear": 367,
     "dailyMinutesDown": {
-      "2021-12-20": 0
+      "2021-12-20": 15
     }
   },
   {
