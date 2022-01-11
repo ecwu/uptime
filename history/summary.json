@@ -98,13 +98,13 @@
     "icon": "https://favicons.githubusercontent.com/ddns.ecwuuuuu.com",
     "slug": "nas",
     "status": "up",
-    "uptime": "98.76%",
-    "uptimeDay": "98.14%",
+    "uptime": "98.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "98.76%",
+    "uptimeYear": "98.77%",
     "time": 1457,
-    "timeDay": 1124,
+    "timeDay": 1241,
     "timeWeek": 1203,
     "timeMonth": 1635,
     "timeYear": 1457,
@@ -129,9 +129,9 @@
     "url": "https://cs.ecwuuuuu.com",
     "icon": "https://favicons.githubusercontent.com/cs.ecwuuuuu.com",
     "slug": "code-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -141,6 +141,7 @@
     "timeMonth": 1404,
     "timeYear": 1285,
     "dailyMinutesDown": {
+      "2022-01-11": 0,
       "2021-12-09": 21
     }
   }
