@@ -97,7 +97,7 @@
     "url": "https://ddns.ecwuuuuu.com",
     "icon": "https://favicons.githubusercontent.com/ddns.ecwuuuuu.com",
     "slug": "nas",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
     "uptimeDay": "97.50%",
     "uptimeWeek": "99.49%",
@@ -109,6 +109,7 @@
     "timeMonth": 1423,
     "timeYear": 1475,
     "dailyMinutesDown": {
+      "2022-03-07": 0,
       "2022-03-06": 36,
       "2022-03-03": 15,
       "2022-02-26": 21,
