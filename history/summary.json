@@ -24,9 +24,9 @@
     "slug": "ecwu-xyz",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 527,
     "timeDay": 756,
@@ -34,7 +34,7 @@
     "timeMonth": 745,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2022-04-24": 12,
+      "2022-04-24": 21,
       "2021-12-31": 19,
       "2021-12-20": 15
     }
@@ -44,36 +44,40 @@
     "url": "https://rss.ecwu.xyz",
     "icon": "https://favicons.githubusercontent.com/rss.ecwu.xyz",
     "slug": "tiny-tiny-rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 828,
-    "timeDay": 768,
-    "timeWeek": 778,
-    "timeMonth": 779,
+    "timeDay": 758,
+    "timeWeek": 774,
+    "timeMonth": 778,
     "timeYear": 828,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-24": 0
+    }
   },
   {
     "name": "RSSHub",
     "url": "https://r.ecwu.xyz",
     "icon": "https://favicons.githubusercontent.com/r.ecwu.xyz",
     "slug": "rss-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 775,
-    "timeDay": 725,
-    "timeWeek": 753,
-    "timeMonth": 741,
+    "timeDay": 750,
+    "timeWeek": 756,
+    "timeMonth": 742,
     "timeYear": 775,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-24": 0
+    }
   },
   {
     "name": "BitWarden",
@@ -82,9 +86,9 @@
     "slug": "bit-warden",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 764,
     "timeDay": 671,
@@ -92,7 +96,7 @@
     "timeMonth": 730,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2022-04-24": 0
+      "2022-04-24": 9
     }
   },
   {
@@ -103,7 +107,7 @@
     "status": "up",
     "uptime": "98.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.00%",
+    "uptimeWeek": "96.09%",
     "uptimeMonth": "96.69%",
     "uptimeYear": "98.51%",
     "time": 1475,
