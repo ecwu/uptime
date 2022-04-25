@@ -13,10 +13,10 @@ sites:
     url: https://r.ecwu.xyz
   - name: BitWarden
     url: https://k.ecwu.xyz
+  - name: Git
+    url: https://git.ecwuuuuu.com
   - name: NAS
     url: https://ddns.ecwuuuuu.com
-  - name: Code Server
-    url: https://cs.ecwuuuuu.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
