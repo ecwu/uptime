@@ -104,10 +104,10 @@
     "url": "https://git.ecwuuuuu.com",
     "icon": "https://favicons.githubusercontent.com/git.ecwuuuuu.com",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1338,
@@ -115,16 +115,18 @@
     "timeWeek": 1324,
     "timeMonth": 1338,
     "timeYear": 1338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-05": 1
+    }
   },
   {
     "name": "NAS",
     "url": "https://ddns.ecwuuuuu.com",
     "icon": "https://favicons.githubusercontent.com/ddns.ecwuuuuu.com",
     "slug": "nas",
-    "status": "up",
+    "status": "down",
     "uptime": "98.41%",
-    "uptimeDay": "95.44%",
+    "uptimeDay": "95.43%",
     "uptimeWeek": "98.96%",
     "uptimeMonth": "95.69%",
     "uptimeYear": "98.41%",
