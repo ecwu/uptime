@@ -4,11 +4,11 @@
     "url": "https://www.ecwuuuuu.com",
     "icon": "https://favicons.githubusercontent.com/www.ecwuuuuu.com",
     "slug": "ecwuuuuu-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 266,
     "timeDay": 286,
@@ -16,7 +16,7 @@
     "timeMonth": 337,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2022-06-21": 19
+      "2022-06-21": 21
     }
   },
   {
@@ -24,10 +24,10 @@
     "url": "https://ecwu.xyz",
     "icon": "https://favicons.githubusercontent.com/ecwu.xyz",
     "slug": "ecwu-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "90.48%",
     "uptimeYear": "98.67%",
     "time": 596,
@@ -36,7 +36,7 @@
     "timeMonth": 829,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2022-06-21": 18,
+      "2022-06-21": 20,
       "2022-05-30": 245,
       "2022-05-29": 1440,
       "2022-05-28": 1440,
@@ -51,10 +51,10 @@
     "url": "https://rss.ecwu.xyz",
     "icon": "https://favicons.githubusercontent.com/rss.ecwu.xyz",
     "slug": "tiny-tiny-rss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 817,
@@ -63,7 +63,7 @@
     "timeMonth": 817,
     "timeYear": 817,
     "dailyMinutesDown": {
-      "2022-06-21": 18,
+      "2022-06-21": 19,
       "2022-04-24": 34
     }
   },
@@ -72,10 +72,10 @@
     "url": "https://r.ecwu.xyz",
     "icon": "https://favicons.githubusercontent.com/r.ecwu.xyz",
     "slug": "rss-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 770,
@@ -84,7 +84,7 @@
     "timeMonth": 778,
     "timeYear": 770,
     "dailyMinutesDown": {
-      "2022-06-21": 17,
+      "2022-06-21": 18,
       "2022-04-24": 34
     }
   },
@@ -93,7 +93,7 @@
     "url": "https://k.ecwu.xyz",
     "icon": "https://favicons.githubusercontent.com/k.ecwu.xyz",
     "slug": "bit-warden",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
     "uptimeDay": "98.89%",
     "uptimeWeek": "99.84%",
