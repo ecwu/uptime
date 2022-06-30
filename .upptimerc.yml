@@ -3,16 +3,16 @@ owner: ecwu # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
 sites:
-  - name: ECWUUUUU Homepage
-    url: https://www.ecwuuuuu.com
-  - name: ECWU.xyz
-    url: https://ecwu.xyz
-  - name: Tiny Tiny RSS
-    url: https://rss.ecwu.xyz
-  - name: RSSHub
-    url: https://r.ecwu.xyz
-  - name: BitWarden
-    url: https://k.ecwu.xyz
+#   - name: ECWUUUUU Homepage
+#     url: https://www.ecwuuuuu.com
+#   - name: ECWU.xyz
+#     url: https://ecwu.xyz
+#   - name: Tiny Tiny RSS
+#     url: https://rss.ecwu.xyz
+#   - name: RSSHub
+#     url: https://r.ecwu.xyz
+#   - name: BitWarden
+#     url: https://k.ecwu.xyz
   - name: NAS
     url: https://ddns.ecwuuuuu.com
 
