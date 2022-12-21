@@ -4,17 +4,17 @@
     "url": "https://ddns.ecwuuuuu.com",
     "icon": "https://icons.duckduckgo.com/ip3/ddns.ecwuuuuu.com.ico",
     "slug": "nas",
-    "status": "up",
-    "uptime": "95.00%",
-    "uptimeDay": "75.01%",
+    "status": "down",
+    "uptime": "95.07%",
+    "uptimeDay": "75.00%",
     "uptimeWeek": "95.43%",
-    "uptimeMonth": "94.85%",
-    "uptimeYear": "94.43%",
-    "time": 1636,
-    "timeDay": 2037,
-    "timeWeek": 2045,
-    "timeMonth": 2049,
-    "timeYear": 1657,
+    "uptimeMonth": "94.90%",
+    "uptimeYear": "94.51%",
+    "time": 1634,
+    "timeDay": 1992,
+    "timeWeek": 2016,
+    "timeMonth": 2035,
+    "timeYear": 1655,
     "dailyMinutesDown": {
       "2022-12-21": 305,
       "2022-12-20": 155,
@@ -107,8 +107,7 @@
       "2022-03-10": 32,
       "2022-03-06": 36,
       "2022-03-03": 15,
-      "2022-02-26": 21,
-      "2022-02-20": 418
+      "2022-02-26": 21
     }
   }
 ]
