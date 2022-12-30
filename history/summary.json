@@ -6,17 +6,16 @@
     "slug": "nas",
     "status": "up",
     "uptime": "95.17%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "98.04%",
-    "uptimeMonth": "97.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "97.49%",
     "uptimeYear": "94.52%",
     "time": 1605,
-    "timeDay": 780,
-    "timeWeek": 825,
-    "timeMonth": 1888,
-    "timeYear": 1615,
+    "timeDay": 799,
+    "timeWeek": 851,
+    "timeMonth": 1889,
+    "timeYear": 1614,
     "dailyMinutesDown": {
-      "2022-12-29": 10,
       "2022-12-27": 17,
       "2022-12-25": 20,
       "2022-12-24": 109,
@@ -102,7 +101,8 @@
       "2022-04-24": 277,
       "2022-04-17": 415,
       "2022-04-16": 415,
-      "2022-04-15": 424
+      "2022-04-15": 424,
+      "2022-04-14": 28
     }
   }
 ]
