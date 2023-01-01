@@ -15,6 +15,13 @@ sites:
 #     url: https://k.ecwu.xyz
   - name: NAS
     url: https://ddns.ecwuuuuu.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 302
+      - 525
+      - 526
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
