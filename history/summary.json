@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ddns.ecwuuuuu.com.ico",
     "slug": "nas",
     "status": "down",
-    "uptime": "77.31%",
+    "uptime": "77.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "57.55%",
+    "uptimeYear": "57.27%",
     "time": 1416,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1261,
     "dailyMinutesDown": {
-      "2023-10-04": 12,
+      "2023-10-05": 12,
+      "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
@@ -200,8 +201,7 @@
       "2022-10-09": 35,
       "2022-10-08": 360,
       "2022-10-07": 1440,
-      "2022-10-06": 1440,
-      "2022-10-05": 190
+      "2022-10-06": 1440
     }
   }
 ]
